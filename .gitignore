@@ -93,3 +93,12 @@ Content/StarterContent/*
 
 #Paragon Aurora Assets
 Content/ParagonAurora/*
+
+#Third Person
+Content/ThirdPerson/*
+
+#Characters
+Content/Characters/*
+
+#Level Prototyping
+Content/LevelPrototyping/*
