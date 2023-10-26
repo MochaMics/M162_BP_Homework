@@ -102,3 +102,12 @@ Content/Characters/*
 
 #Level Prototyping
 Content/LevelPrototyping/*
+
+#FirstPerson
+Content/FirstPerson/*
+
+#FirstPersonArms
+Content/FirstPersonArms/*
+
+#FPWeapon
+Content/FPWeapon/*
